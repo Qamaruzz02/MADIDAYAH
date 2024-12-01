@@ -4093,6 +4093,10 @@ input, select, textarea {
 			#banner .content {
 				padding: 3em 1.5625em 5.25em 1.5625em;
 			}
+			#banner .content .image {
+						height: 15em;
+						width: 15em;
+					}
 
 		/* Footer */
 
