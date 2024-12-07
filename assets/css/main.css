@@ -3598,7 +3598,9 @@ input, select, textarea {
 			body, input, select, textarea {
 				font-size: 13pt;
 			}
-
+			#banner .content .image {
+				right: 30px;
+			}
 	}
 
 /* Large */
