@@ -86,6 +86,7 @@ input, select, textarea {
 
 	html, body {
 		background: #1c1d26;
+		color: #ffffff;
 	}
 
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
